@@ -1,0 +1,16 @@
+{
+  "name": "nightwatchtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/nightwatch/bin/nightwatch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^83.0.0",
+    "nightwatch": "^1.3.6",
+    "selenium-server": "^3.141.59"
+  }
+}

@@ -1,0 +1,4 @@
+1. 地址栏中输入cmd，打开命令行。
+2. npm install
+3. 打开driver目录下，chromedriver.exe
+2. npm run test
